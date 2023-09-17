@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Muhamm3dd
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning JAVA DSA
 - 💞️ I’m looking to collaborate and contribute Open Source.
 - 📫 How to reach me 
 
