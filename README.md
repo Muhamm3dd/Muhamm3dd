@@ -8,9 +8,7 @@
 
 <br />
 <p align="center">
-<a href="https://dev.to/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shamimsikder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhamm3dd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamm3dd" height="30" width="40" /></a>
-<a href="https://instagram.com/muhamm3dd__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhamm3dd" height="30" width="40" /></a>
 </p>
 
 
@@ -58,17 +56,6 @@
 
 <div align="center">
   
- ## :chart_with_upwards_trend: Current Stats
-</br>
-</div>
-<br />
-<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamm3dd&theme=gotham&show_icons=true" alt="muhamm3dd"/>
-
-<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=muhamm3dd&show_icons=true&theme=gotham"/>
-</p>
-
-<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=muhamm3dd&theme=gotham"/>
-<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 </p>
 
